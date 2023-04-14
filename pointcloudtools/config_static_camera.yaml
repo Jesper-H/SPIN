@@ -1,0 +1,12 @@
+id: '030522071855'
+camera: 'base'
+filters: 'pointcloud'
+json_file_path: 'staticCamConfig2.json'
+respawn: True
+initial_reset: True
+depth_width: 848
+depth_height: 480
+color_width: 848
+color_height: 480
+depth_fps: 15
+color_fps: 15

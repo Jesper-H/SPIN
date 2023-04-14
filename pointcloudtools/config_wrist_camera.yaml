@@ -1,0 +1,12 @@
+id: '911222060096'
+camera: 'onrobot_eyes_base'
+filters: 'pointcloud'
+json_file_path: 'wristCamConfig.json'
+respawn: True
+initial_reset: True
+depth_width: 1280
+depth_height: 720
+color_width: 1280
+color_height: 720
+depth_fps: 15
+color_fps: 15
